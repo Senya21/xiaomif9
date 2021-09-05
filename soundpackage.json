@@ -222,6 +222,18 @@
 				"id": "W1"
 			},
 			{
+			    "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/ru.png",
+				"listen": "https://github.com/Senya21/xiaomif9/raw/main/hello2.ogg",
+				"name": {
+					"default": "Советские Фильмы"
+				},
+				"desc": {},
+				"download": "https://github.com/Senya21/xiaomif9/raw/main/ru2.tar.gz",
+				"md5sum": "7f7915d0dd71b0c03deffe9bbe4c6856",
+				"size": 1204412,
+				"id": "M1"
+			},
+			{
 				"icon" : "https://dreamef9.my1.ru/domovenok/ru.png",
 				"listen" : "https://dreamef9.my1.ru/domovenok/start_clean_ru.mp3",
 				"name" : {
